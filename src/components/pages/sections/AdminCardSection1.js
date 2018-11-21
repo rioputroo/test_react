@@ -9,7 +9,7 @@ const AdminCardSection1 = () => {
               <div className="admin-up">
                 <Fa icon="money" className="primary-color"/>
                 <div className="data">
-                  <p>SALESSSSSSS</p>
+                  <p>SALES</p>
                   <h4>
                     <strong>$2000</strong>
                   </h4>
